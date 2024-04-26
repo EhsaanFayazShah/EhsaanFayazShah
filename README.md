@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ehsaan</h1>
 <h3 align="center">A passionate Full Stack developer from KashmiR</h3>
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsaanfayazshah&label=Profile%20views&color=0e75b6&style=flat" alt="ehsaanfayazshah" /> </p>
 
