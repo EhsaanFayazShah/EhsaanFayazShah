@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React,NextJs , MERN Stack**
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com)
+- 📝 I regularly write articles on [https://medium.com](https://medium.com)
 
 - 💬 Ask me about **React,Nodejs,C/C++,MongoDB,PostgreSql**
 
