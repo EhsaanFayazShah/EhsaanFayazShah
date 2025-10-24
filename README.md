@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React,Nodejs,C/C++,MongoDB,PostgreSql**
 
-- 📫 How to reach me **ehsaanfayaz80@gmail.com**
+- 📫 How to reach me **ehsaanfayaz.shah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
